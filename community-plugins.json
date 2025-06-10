@@ -17358,5 +17358,12 @@
     "author": "ZigHolding",
     "description": "Sync notes or plugins between vaults.",
     "repo": "zigholding/obsidian-notesync-plugin"
-  }
+},
+{
+     "id": "sonoria",
+     "name": "Sonoria",
+     "author": "Philips F",
+     "description": "Voice-powered AI conversations with your notes. Speak questions and hear intelligent responses from your vault using natural voice interaction and advanced AI reasoning.",
+     "repo": "Kratos0080/Sonoria"
+}
 ]
